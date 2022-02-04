@@ -12,6 +12,7 @@ I will be your competent and creative problem expert, whatever our challenges ma
 
 ~ Alex
 
+
 **Contents of this repository:**
 
 - **"Data Story Final_Alexander Fichtl.pdf"** is the upload of my class projects data story and the main document you should look at.
