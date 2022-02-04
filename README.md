@@ -19,6 +19,4 @@ Of course, I have more to offer to you than Data Science: I have considerable pr
 
 ### All the best to my future peers; I am looking forward to working with you!
 
-Best,
-
-Alex
+~ Alex
