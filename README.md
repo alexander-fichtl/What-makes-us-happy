@@ -1,5 +1,10 @@
 # What-makes-us-happy - THINK. MAKE. START. application
-This is my final class project for the UCLA "Data Science" course. It is one of my smaller projects, but one that I am really proud of! I am aware that this is likely not your typical THINK. MAKE. START. application. However, I was free to choose the topic, and I think the project reflects a lot of my personality and interests. Moreover, the project was featured as "best of class" at UCLA and shows how to convincingly tell a entertaining story about data - which comes in handy when applied to projects in the business world!
+
+Dear future peers,
+
+I'm Alex, a Robotics, Cognition, Intelligence M.Sc. student at TUM. With this repository, I share with you my final class project for a UCLA course I have joined during a term abroad. It is one of my smaller projects, but one that I am really proud of! I am aware that this is likely not your typical THINK. MAKE. START. application. However, I was free to choose the topic, and I think the project reflects a lot of my personality and interests. Moreover, the project was featured as "best of class" at UCLA and shows how to convincingly tell an entertaining story about data - which comes in handy when applied to projects in the business world!
+
+Of course, I have more to offer to you than Data Science: I have considerable practical experience with prototyping, marketing, and problem-solving. Most notably, together with a team with a strong technical background I developed and built an Air Hockey robot with its own AI that was able to compete with human players. Moreover, I founded and managed my own start-up as part of the inter-university competition "Start-up your Idea - 5€ Business" during my bachelor's program. I promise, you can count on me for being a competent, knowledgable, and creative problem expert, whatever our challenges may be!
 
 - **"Data Story Final_Alexander Fichtl.pdf"** is the upload of my class projects data story and the main document you should look at.
 
@@ -12,4 +17,8 @@ This is my final class project for the UCLA "Data Science" course. It is one of 
 - **"columns.csv"**	is a csv file containing explanations of every variable of the dataset.
 
 
-### All the best to my future peers, I am looking forward to working with you!
+### All the best to my future peers; I am looking forward to working with you!
+
+Best,
+
+Alex
