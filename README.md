@@ -1,7 +1,7 @@
-# What-makes-us-happy
-Final Class Project for the UCLA Extension Data Science Course
+# What-makes-us-happy - THINK. MAKE. START. application
+This is my final class project for the UCLA "Data Science" course. It is one of my smaller projects, but one that I am really proud of! I am aware that this is likely not your typical THINK. MAKE. START. application. However, I was free to choose the topic, and I think the project reflects a lot of my personality and interests. Moreover, the project was featured as "best of class" at UCLA and shows how to convincingly tell a entertaining story about data - which comes in handy when applied to projects in the business world!
 
-"Data Story Final_Alexander Fichtl.pdf" is the upload of my class projects data story.
+"Data Story Final_Alexander Fichtl.pdf" is the upload of my class projects data story and the main document you should look at.
 
 "main.R"	the single R script including all my R code for the project.
 
@@ -10,3 +10,6 @@ Final Class Project for the UCLA Extension Data Science Course
 "responses.csv"	is the csv file containing all the data.
 
 "columns.csv"	is a csv file containing explanations of every variable of the dataset.
+
+
+All the best to my future peers, I am looking forward to working with you!
