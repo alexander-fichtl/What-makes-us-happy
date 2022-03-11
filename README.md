@@ -13,6 +13,7 @@ I will be your competent and creative problem expert, whatever our challenges ma
 ~ Alex
 
 If you want to take a closer look at my work and studies, check out my LinkedIn: www.linkedin.com/in/alexander-fichtl-a6068a172
+
 Finally, if you are intrested, here is an article about neural networks and pruning that I wrote together with my peers during a Fulbright scholarship at the Massachusetts Insitute of Technology: https://medium.com/@Yichabod/pruning-in-brains-and-machines-62e1046f0438
 
 **Contents of this repository:**
