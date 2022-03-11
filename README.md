@@ -6,6 +6,8 @@ I'm Alex, a Robotics, Cognition, Intelligence M.Sc. student at TUM. With this re
 
 Of course, I have more to offer to you than Data Science: I have considerable practical experience with prototyping, marketing, and problem-solving. Most notably, together with a small team I developed and built an Air Hockey robot with its own AI that was able to compete with human players. Moreover, I founded and managed my own smart-home start-up as part of the inter-university competition "Start-up your Idea - 5€ Business" during my bachelor's program. I promise, you can count on me for the exploration of problem spaces and understanding of customer needs. Additionaly, my techical background enables me to help out in the technical development as well. 
 
+If you want to take a closer look at my work and studies, check out my LinkedIn: www.linkedin.com/in/alexander-fichtl-a6068a172
+
 I will be your competent and creative problem expert, whatever our challenges may be!
 
 ### All the best to my future peers; I am looking forward to working with you!
